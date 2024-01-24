@@ -44,3 +44,6 @@ Cihaz Üzerinde Makine Öğrenimi kullanan Basit Flutter Uygulaması.
 
 
 
+
+
+
