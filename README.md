@@ -44,6 +44,14 @@ Cihaz Üzerinde Makine Öğrenimi kullanan Basit Flutter Uygulaması.
 
 
 
+Working Video 
+
+
+
+https://www.youtube.com/shorts/-7Jz6iivaGM
+
+
+
 
 
 
